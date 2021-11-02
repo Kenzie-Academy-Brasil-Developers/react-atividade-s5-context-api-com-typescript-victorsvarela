@@ -1,0 +1,15 @@
+.card__Product {
+  height: 350px;
+  width: 250px;
+  margin: 10px;
+  border: 1px solid red;
+  padding: 5px;
+}
+
+p {
+  font-size: 18px;
+}
+
+img {
+  max-height: 100px;
+}
